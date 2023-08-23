@@ -14,7 +14,7 @@ This is an interactive language learning application with exercises, quizzes, an
 1. Clone the repository
 
    ```sh
-   git clone <https://github.com/><repo-url>
+   git clone <https://github.com/Arnavthakur26/Emittr_Assignment>
 
 Install dependencies
 
