@@ -14,29 +14,33 @@ This is an interactive language learning application with exercises, quizzes, an
 1. Clone the repository
 
    ```sh
+   
    git clone https://github.com/Arnavthakur26/Emittr_Assignment
     
     
 2.Install dependencies
 
     ```
+
     npm install
     
 
 3.Create a .env file and add the MongoDB connection URL
 
     ```
+    
     MONGODB_URL=mongodb://localhost:27017/langapp
-    ```
 
 4.Start the server
 
     ```
+    
     npm nodemon
     
 5.In another terminal, start the Vite dev server
 
     ```
+    
     npm run dev
     
 
