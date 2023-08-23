@@ -55,7 +55,16 @@ To be completed...
 
 To learn more about the tech stack used:
 
-Vite Docs[https://vitejs.dev/]\
-React Documentation[https://reactjs.org/]\
-MongoDB Manual[https://docs.mongodb.com/manual/]\
+![Vite Docs](https://vitejs.dev/)\
+![React Documentation](https://reactjs.org/)\
+![MongoDB Manual](https://docs.mongodb.com/manual/)\
 Feel free to expand or modify this example README file according to your project's requirements and needs!
+
+## Screenshots
+
+### 1. Homepage:
+### 2. Quiz:
+### 3. Quiz Result:
+### 4. Profile:
+### 4. Login:
+### 4. Register:
