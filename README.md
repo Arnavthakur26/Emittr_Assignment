@@ -15,13 +15,13 @@ This is an interactive language learning application with exercises, quizzes, an
 
    ```sh
    git clone https://github.com/Arnavthakur26/Emittr_Assignment
-    ```
+    
     
 2.Install dependencies
 
     ```
     npm install
-    ```
+    
 
 3.Create a .env file and add the MongoDB connection URL
 
@@ -33,12 +33,12 @@ This is an interactive language learning application with exercises, quizzes, an
 
     ```
     npm nodemon
-    ```
+    
 5.In another terminal, start the Vite dev server
 
     ```
     npm run dev
-    ```
+    
 
 The app should now be running at <http://localhost:5173>
 
