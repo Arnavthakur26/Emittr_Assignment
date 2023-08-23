@@ -19,8 +19,10 @@ This is an interactive language learning application with exercises, quizzes, an
 Install dependencies
 
 Copy code
+
     ```sh
     npm install
+    ```
 Create a .env file and add the MongoDB connection URL
 
 env
